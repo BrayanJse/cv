@@ -175,6 +175,10 @@ p {
     background: unset;
   }
 
+  .conta {
+    margin: 5px auto;
+  }
+
   .no-print {
     display: none;
   }
@@ -191,7 +195,10 @@ p {
   
   /*  */
   .header-profile {
-    padding: 20px 0;
+    /* padding: 10px 0; */
+  }
+  .header-profile-content {
+    max-width: 60%;
   }
   
   .container-items {
